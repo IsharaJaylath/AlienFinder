@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+h1{
+  font-family: 'Hanalei Fill', cursive; 
+  font-size: 72px;
+  color: rgb(23, 214, 214);
+
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
